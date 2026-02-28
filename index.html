@@ -9399,7 +9399,11 @@ function ach_updateMenuBadge(){
     const c=ach_completion();
     btn.textContent = `Achievements ${Math.floor(c.pct*100)}%`;
     // update menu stat pill if exists
-   
+    const el = document.getElementById("statAch");
+    if(el) el.textContent = `${c.unlocked} / ${c.total} (${Math.floor(c.pct*100)}%)`;
+  }catch(e){}
+}
+
 /* =========================
    DAILY SYSTEM — Randomized Daily Tasks + In‑Game Boosts + Daily Challenge
    - Tasks randomized per local day (YYYY-MM-DD) using deterministic PRNG.
@@ -9923,10 +9927,6 @@ try{ globalThis.dailyOpenOverlay = daily_openOverlay; globalThis.daily_openOverl
 // init daily + boosts
 try{ boosts_load(); }catch(e){}
 try{ daily_load(); daily_rollIfNeeded(); }catch(e){}
- const el = document.getElementById("statAch");
-    if(el) el.textContent = `${c.unlocked} / ${c.total} (${Math.floor(c.pct*100)}%)`;
-  }catch(e){}
-}
 
 function ach_updateDailyBadge(){
   try{
